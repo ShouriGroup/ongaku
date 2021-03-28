@@ -1,0 +1,14 @@
+{
+    "name": "shouri/ongaku",
+    "description": "Music Streaming System",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "PaSTKuN",
+            "email": "past.kun@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
