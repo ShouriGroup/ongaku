@@ -8,13 +8,12 @@
     <link rel="stylesheet" href="node_modules/materialize-css/dist/css/materialize.css">
 </head>
 <?php
-<<<<<<< HEAD
+
     include_once "config.php";
     include_once "queries.php";
 
     var_dump($conn);
     var_dump(get_class_methods($conn));
-=======
     $parm = 'home';
     // get_pages
     if (isset($_GET['teste'])){
@@ -28,8 +27,7 @@
         case 'teste':
             include_once 'teste.php';
     }
->>>>>>> de902a38236842354f2d127fa06a82786857102b
-?>
+    ?>
 <body>
 <script src="node_modules/materialize-css/dist/js/materialize.js"></script>
 </body>
